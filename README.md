@@ -57,21 +57,21 @@ This exercise helps understand how resources can be isolated and protected in th
 ## 📸 Screenshots
 
 ### VPC Dashboard
-![VPC Dashboard](screenshots/Screenshot-vpc-dashboard.png)
+![VPC Dashboard](Screenshot-vpc-dashboard.png)
 
 ### VPC Name and CIDR
-![VPC Name](screenshots/Screenshot-Vpc-name.png)  
-![CIDR Details](screenshots/Screenshot-cidr.png)
+![VPC Name](Screenshot-Vpc-name.png)
+![CIDR Details](Screenshot-cidr.png)
 
 ### Subnets
-![Public Subnet](screenshots/Screenshot-subnet-public.png)  
-![Private Subnet](screenshots/Screenshot-subnet-private.png)
+![Public Subnet](Screenshot-subnet-public.png)
+![Private Subnet](Screenshot-subnet-private.png)
 
 ### Route Table
-![Route Table](screenshots/Screenshot-route1.png)
+![Route Table](Screenshot-route1.png)
 
 ### Internet Gateway
-![Internet Gateway](screenshots/Screenshot-IGW.png)
+![Internet Gateway](Screenshot-IGW.png)
 
 ## 📝 Summary
 - **VPC CIDR Range:** 10.0.0.0/16  
